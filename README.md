@@ -1,5 +1,7 @@
 # responselike
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lukechilds/responselike.svg)](https://greenkeeper.io/)
+
 > A response-like object for mocking a Node.js HTTP response stream
 
 [![Build Status](https://travis-ci.org/lukechilds/responselike.svg?branch=master)](https://travis-ci.org/lukechilds/responselike) [![Coverage Status](https://coveralls.io/repos/github/lukechilds/responselike/badge.svg?branch=master)](https://coveralls.io/github/lukechilds/responselike?branch=master) [![npm](https://img.shields.io/npm/dm/responselike.svg)](https://www.npmjs.com/package/responselike)
